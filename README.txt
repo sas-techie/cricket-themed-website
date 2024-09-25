@@ -1,4 +1,4 @@
-####As per the Web Development Challenge project, I have developed a cricket-themed-website project.
+####As per the Web Development Challenge project, I have developed a cricket-themed-website project. 
 
 
 # Cricket Tournament Web Application
@@ -34,7 +34,7 @@ To set up this project locally, follow these steps:
    git clone https://github.com/sas-techie/cricket-themed-website.git
 
 2. **Navigate to the Project Directory**
-   cd cricket-themed-website 
+   cd cricket-themed-website
 
 3. **Install Dependencies Make sure you have Node.js installed. Then run:**
    npm install
@@ -44,4 +44,4 @@ To set up this project locally, follow these steps:
 
 ## Deployment Instructions
 The project has been deployed via netlify at: https://main--cricket-themed-website.netlify.app/
-
+ 
