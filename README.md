@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ####As per the Web Development Challenge project, I have developed a cricket-themed-website project.
 
 
