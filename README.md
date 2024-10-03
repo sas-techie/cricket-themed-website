@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ####As per the Web Development Challenge project, I have developed a cricket-themed-website project.
 
 
@@ -45,3 +46,8 @@ To set up this project locally, follow these steps:
 ## Deployment Instructions
 The project has been deployed via netlify at: https://main--cricket-themed-website.netlify.app/
 
+=======
+# cricket-themed-website project for the Web Development Challenge 
+
+ 
+>>>>>>> 40199405d6c2fc9d92fe029f042d094510b84bac
